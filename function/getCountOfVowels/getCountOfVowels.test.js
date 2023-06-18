@@ -1,3 +1,5 @@
 import { getCountOfVowels } from './getCountOfVowels.js/';
 
-console.log(getCountOfVowels('Audio') === 4);
+describe ('getCountOfVowels:', () => {
+  it('Unit test 1', () => { expect(getCountOfVowels('Audio')).toEqual(4); });
+});

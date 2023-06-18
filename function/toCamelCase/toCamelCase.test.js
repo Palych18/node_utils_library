@@ -1,5 +1,7 @@
 import { toCamelCase } from './toCamelCase.js';
 
-console.log(toCamelCase('the-stealth-warrior') === 'theStealthWarrior');
-console.log(toCamelCase('The_Stealth-Warrior') === 'TheStealthWarrior');
-console.log(toCamelCase('The_Stealth_Warrior') === 'TheStealthWarrior');
+describe ('toCamelCase:', () => {
+  it('Unit test 1', () => { expect(toCamelCase('the-stealth-warrior')).toEqual('theStealthWarrior'); });
+  it('Unit test 2', () => { expect(toCamelCase('The_Stealth-Warrior')).toEqual('TheStealthWarrior'); });
+  it('Unit test 3', () => { expect(toCamelCase('The_Stealth_Warrior')).toEqual('TheStealthWarrior'); });
+});
