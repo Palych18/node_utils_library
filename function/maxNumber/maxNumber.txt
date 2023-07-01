@@ -1,0 +1,12 @@
+Нужно создать функцию максимум, которая принимает на вход список целых
+чисел и возвращает наибольшее число в этом списке.
+
+Тесты
+
+максимальное число maxNumber
+
+console.log(maxNumber(['5', 5])) // undefined
+console.log(maxNumber([5.5, 5])) // undefined
+console.log(maxNumber([5, true])) // undefined
+console.log(maxNumber([15, 5, -4, -234, 0, 156])) // 156
+console.log(maxNumber([5, -5, 54, 100])) // 100
