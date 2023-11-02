@@ -1,4 +1,4 @@
-import {minNumber} from './minNumber.js';
+import { minNumber } from './minNumber.js';
 
 describe ('minNumber:', () => {
   it('Unit test 1', () => { expect(minNumber(['5', 5])).toEqual(undefined); });
