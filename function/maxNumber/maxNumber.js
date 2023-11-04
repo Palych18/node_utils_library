@@ -5,7 +5,7 @@
  */
 
 export const maxNumber = (numbers) => {
-  if(!numbers.every(numbers => Number.isInteger(numbers))) return undefined;
+  if (!numbers.every(numbers => Number.isInteger(numbers))) return undefined;
 
   const maxNumber = Math.max(...numbers);
 
