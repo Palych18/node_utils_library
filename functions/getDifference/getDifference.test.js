@@ -1,6 +1,6 @@
-import {getDifference} from './getDifference.js'
+import { getDifference } from './getDifference.js';
 
-describe ('getDifference:', () => {
+describe('getDifference:', () => {
   it('Unit test 1', () => { expect(getDifference('5', 5)).toEqual(undefined); });
   it('Unit test 2', () => { expect(getDifference(5, true)).toEqual(undefined); });
   it('Unit test 3', () => { expect(getDifference(-5, 5)).toEqual(undefined); });
