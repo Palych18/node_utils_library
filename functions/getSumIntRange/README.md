@@ -1,13 +1,11 @@
 # culcSumIntRange
 
-Необходимо реализовать функцию __`culcSumIntRange`__.  
-Функция принимает два целых числа __a__ и __b__.  
-Числа могут быть как положительными, так и отрицательными.  
-Функция находит и возвращает сумму всех целых чисел между  
-ними и включая сами числа.  
-Если числа равны, возвращается _a_ или _b_.  
+The function takes two integers __a__ and __b__ as an argument.  
+And calculates the sum of all integers between them, including the numbers themselves.  
+If they are equal, it returns _a_ or _b_.  
+The numbers can be either positive or negative.
 
-_Примечание: __a__ и __b__ не являются упорядоченными!_  
+_Note: __a__ and __b__ are not ordered!_
 
 ```
 culcSumIntRange(1, 0) // 1

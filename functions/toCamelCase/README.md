@@ -1,8 +1,7 @@
 # toCamelCase
 
-Необходимо реализовать функцию __`toCamelCase`__.  
-Функция примимает строку с разделителями __('_') ('-')__.  
-Функция возвращает преобразованную строку в __camelCase__.  
+The function accepts a string with __('_') ('-')__ delimiters as an argument.  
+The result of the function is a converted string in __camelCase__.
 
 ```
 toCamelCase('the-stealth-warrior') // theStealthWarrior

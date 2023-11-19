@@ -1,23 +1,22 @@
 # convertRomanToArabian  
 
-Необходимо реализовать функцию __`convertRomanToArabian`__.  
-Функция принимает в качестве аргумента римскую цифру в виде строки.  
-Функция возвращает значение в виде целого десятичного числа.  
-Форма римской цифры не проверяется.  
+The function converts a Roman numeral to an integer decimal number.  
+It accepts a Roman numeral as a string as an argument.  
+The function returns the value as an integer decimal number.  
+The form of the Roman numeral is not checked.
 
-__Правила написания римских цифр__
+__Rules for writing Roman numerals.__
 
-Современные римские цифры записываются путем отдельного выражения каждой  
-десятичной цифры кодируемого числа, начиная с крайней левой цифры и  
-пропуская все 0.  
+Modern Roman numerals are written by separately expressing each decimal digit  
+of the encoded number, starting with the leftmost digit and skipping all 0's.
 
 
-__1990__ год записывается как __"MCMXC"__ 1000 = M, 900 = CM, 90 = XC  
-__2008__ год записывается как __"MMVIII"__ 2000 = MM, 8 = VIII  
-В римской цифре __1666__ года __"MDCLXVI"__ каждая буква используется  
-в порядке убывания.  
+__1990__ year is written as __"MCMXC"__ 1000 = M, 900 = CM, 90 = XC  
+__2008__ year is written as __"MMVIII"__ 2000 = MM, 8 = VIII  
+In the Roman numeral __1666__ year __"MDCLXVI"__ each letter is used  
+in descending order.
 
-__Обозначение цифр:__  
+__Digit designation:__
 
 I - 1  
 V - 5  

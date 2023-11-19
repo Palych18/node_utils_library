@@ -1,10 +1,10 @@
 /**
- * @function stringTwoSymbol
- * @param {string}
- * @returns {string}
+ * @function splitStrTwoSymbol
+ * @param {string} text
+ * @returns {string[]}
  */
 
-export const stringTwoSymbol = (text) => {
+export const splitStrTwoSymbol = (text) => {
 
   const pair = [];
   let i = 0;
@@ -12,8 +12,7 @@ export const stringTwoSymbol = (text) => {
   while (i < text.length) {
     if (i + 1 < text.length) {
       pair.push(text.slice(i, i + 2));
-    }
-    else {
+    } else {
       pair.push(text[i] + '_');
     }
 

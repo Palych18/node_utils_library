@@ -24,14 +24,17 @@ describe('checkPinCode:', () => {
     const { pinCode, execute } = dataForTest.test1;
     expect(checkPinCode(pinCode)).toEqual(execute);
   });
+
   it('Unit test 2:', () => {
     const { pinCode, execute } = dataForTest.test2;
     expect(checkPinCode(pinCode)).toEqual(execute);
   });
+
   it('Unit test 3:', () => {
     const { pinCode, execute } = dataForTest.test3;
     expect(checkPinCode(pinCode)).toEqual(execute);
   });
+
   it('Unit test 4:', () => {
     const { pinCode, execute } = dataForTest.test4;
     expect(checkPinCode(pinCode)).toEqual(execute);

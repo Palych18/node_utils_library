@@ -1,10 +1,9 @@
 # checkPinCode
 
-Необходимо реализовать функцию __`checkPinCode`__.  
-Банкоматы позволяют вводить 4 или 6-значные PIN-коды.  
-PIN-коды не могут содержать ничего, кроме ровно __4__ или ровно __6__ цифр.  
-Если функции передана корректно строка PIN-кода, возвращается __true__.  
-Если функции передана не корректно строка PIN-кода, возвращается __false__.  
+The function checks whether the ATM and terminal _PIN-code_ is entered correctly.  
+If the _PIN-code_ string is passed to the function correctly, __true__ is returned.  
+If the _PIN-code_ string is passed to the function incorrectly, __false__ is returned.  
+PIN codes cannot contain anything but exactly __4__ or exactly __6__ digits.
 
 ```
 checkPinCode('1234') // true

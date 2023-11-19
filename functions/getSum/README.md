@@ -1,12 +1,10 @@
 # getSum
 
-Необходимо реализовать фунĸцию __`getSum`__.  
-Функция принимает два аргумента.  
-Фунĸция должна проверить аргументы на соответствие типу __number__.  
-При соответствии типов возвращается результат математичесĸой операции  
-сложение над двумя натуральными числовыми аргументами, ĸоторые __> 0__.  
-Если не соответствует, то возвращается __undefined__.  
-Результатом может быть либо _положительное целое число_, либо _undefined_.  
+The function takes two arguments and checks for a match with the __number__ type.  
+If the types match, it returns the result of the mathematical operation  
+addition over two natural numeric arguments, ĸwhich __> 0__.  
+If it does not match, then __undefined__ is returned.  
+The result can be either a _positive integer_ or a _undefined_.
 
 ```
 getSum('5', 5) // undefined

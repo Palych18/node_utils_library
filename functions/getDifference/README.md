@@ -1,13 +1,11 @@
 # getDifference
 
-Необходимо реализовать фунĸцию __`getDifference`__.  
-Функция принимает два аргумента.  
-Фунĸция должна проверить аргументы на соответствие типу __number__.  
-При соответствии типов возвращается результат математичесĸой операции  
-вычитание над двумя натуральными числовыми аргументами, ĸоторые __> 0__.  
-Если не соответствует, то возвращается __undefined__.  
-Функция проверяет, что уменьшаемое число больше вычитаемого числа.  
-Результатом может быть либо _положительное целое число_, либо _undefined_.  
+The function takes two arguments and checks for a match with the __number__ type.
+If the types match, it returns the result of the mathematical operation  
+subtraction over two natural numeric arguments, ĸwhich __> 0__.  
+If it does not match, __undefined__ is returned.  
+The function checks that the number being reduced is greater than the number being subtracted.  
+The result can be either a _positive integer_ or _undefined_.
 
 ```
 getDifference('5', 5) // undefined
