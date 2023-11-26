@@ -1,7 +1,6 @@
 # calcSpins
 
-Необходимо реализовать функцию __`calcSpins`__.  
-Дан массив содержащий некоторое количество слов __"right"__ и __"left"__.  
-Каждое слово обозначает поворот на __90°__.  
-Функция возвращает _целое положительное число_, показывающее сколько полных  
-оборотов на __360°__ было выполнено относительного начального положения __0°__.  
+The function returns a _positive integer_ indicating how many complete  
+revolutions at __360°__ have been performed relative to the initial position __0°__.  
+The function accepts an array containing some number of words __"right"__ and __"left"__.  
+Each word denotes a turn by __90°__.

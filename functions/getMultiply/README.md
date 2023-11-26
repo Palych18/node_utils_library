@@ -1,12 +1,10 @@
 # getMultiply
 
-Необходимо реализовать фунĸцию __`getMultiply`__.  
-Функция принимает два аргумента.  
-Фунĸция должна проверить аргументы на соответствие типу __number__.  
-При соответствии типов возвращается результат математичесĸой операции  
-умножение над двумя натуральными числовыми аргументами, ĸоторые __> 0__.  
-Если не соответствует, то возвращается __undefined__.  
-Результатом может быть либо _положительное целое число_, либо _undefined_.  
+The function takes two arguments and checks for a match with the __number__ type.  
+If the types match, it returns the result of the mathematical operation  
+multiplication over two natural numeric arguments that __> 0__.  
+If it does not match, then __undefined__ is returned.  
+The result can be either a _positive integer_ or a _undefined_.
 
 ```
 getMultiply('5', 5) // undefined

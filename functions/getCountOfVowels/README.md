@@ -1,10 +1,9 @@
 # getCountOfVowels
 
-Необходимо реализовать функцию __`getCountOfVowels`__.
-Функция принимает в качестве аргумента строку.  
-Функция возвращает количество гласных в заданной строке.  
+The function returns the number of vowels in a given string.  
+The function takes a string as an argument.  
 
-Английский язык содержит пять гласных букв: __a, e, i, o, u__
+English language contains five vowel letters: __a, e, i, o, u__
 
 ```
 getCountOfVowels('Audio') // 4

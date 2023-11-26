@@ -1,13 +1,11 @@
 # getSpliting
 
-Необходимо реализовать фунĸцию __`getSpliting`__.  
-Функция принимает два аргумента.  
-Фунĸция должна проверить аргументы на соответствие типу __number__.  
-При соответствии типов возвращается результат математичесĸой операции  
-деление над двумя натуральными числовыми аргументами, ĸоторые __> 0__.  
-Если не соответствует, то возвращается __undefined__.  
-Функция проверяет, что делимое число больше делителя.  
-Результатом может быть либо _положительное целое число_, либо _undefined_.  
+The function takes two arguments and checks for a match with the __number__ type.  
+If the types match, it returns the result of the mathematical operation  
+division over two natural numeric arguments, ĸwhich __> 0__.  
+If it does not match, __undefined__ is returned.  
+The function checks that the number being divided is greater than the divisor.  
+The result can be either a _positive integer_ or a _undefined_.
 
 ```
 getSpliting('5', 5) // undefined

@@ -1,4 +1,4 @@
-import { stringTwoSymbol } from './stringTwoSymbol.js';
+import { splitStrTwoSymbol } from './splitStrTwoSymbol.js';
 
 const dataForTest = {
   test1: {
@@ -11,14 +11,14 @@ const dataForTest = {
   },
 };
 
-describe('stringTwoSymbol:', () => {
+describe('splitStrTwoSymbol:', () => {
   it('Unit test 1', () => {
     const { strArg, expected } = dataForTest.test1;
-    expect(stringTwoSymbol(strArg)).toEqual(expected);
+    expect(splitStrTwoSymbol(strArg)).toEqual(expected);
   });
 
   it('Unit test 2', () => {
     const { strArg, expected } = dataForTest.test2;
-    expect(stringTwoSymbol(strArg)).toEqual(expected);
+    expect(splitStrTwoSymbol(strArg)).toEqual(expected);
   });
 });
