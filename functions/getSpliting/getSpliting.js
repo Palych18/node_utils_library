@@ -17,5 +17,5 @@ export const getSpliting = (a, b) => {
 
   if (!isValidA || !isValidB || !Number.isInteger(a / b)) return;
 
-  return a / b;  
-}
+  return a / b;
+};

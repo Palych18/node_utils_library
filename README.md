@@ -29,6 +29,7 @@ covered by tests.
 - [getSumIntRange](https://github.com/Palych18/programming_tasks/tree/main/functions/getSumIntRange)
 - [identifyLoveFlower](https://github.com/Palych18/programming_tasks/tree/main/functions/identifyLoveFlower)
 - [keepUpHoop](https://github.com/Palych18/programming_tasks/tree/main/functions/keepUpHoop)
+- [returnMostOftenNumber](https://github.com/Palych18/programming_tasks/tree/main/functions/returnMostOftenNumber)
 - [splitStrTwoSymbol](https://github.com/Palych18/programming_tasks/tree/main/functions/splitStrTwoSymbol)
 - [toCamelCase](https://github.com/Palych18/programming_tasks/tree/main/functions/toCamelCase)
 
