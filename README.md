@@ -30,6 +30,7 @@ covered by tests.
 - [identifyLoveFlower](https://github.com/Palych18/programming_tasks/tree/main/functions/identifyLoveFlower)
 - [keepUpHoop](https://github.com/Palych18/programming_tasks/tree/main/functions/keepUpHoop)
 - [returnMostOftenNumber](https://github.com/Palych18/programming_tasks/tree/main/functions/returnMostOftenNumber)
+- [scrollToTarget](https://github.com/Palych18/programming_tasks/tree/main/functions/scrollToTarget)
 - [splitStrTwoSymbol](https://github.com/Palych18/programming_tasks/tree/main/functions/splitStrTwoSymbol)
 - [toCamelCase](https://github.com/Palych18/programming_tasks/tree/main/functions/toCamelCase)
 
