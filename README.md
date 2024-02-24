@@ -1,6 +1,6 @@
 # node_utils_library
 
-Welcome to the repository with a set of mini-programs developed in Node.js!  
+Welcome to the repository with a set of mini-programs developed in __Node.js__!  
 This project is designed to demonstrate and practice the basic concepts, features,  
 and applications of __Node.js__ in small programming tasks.  
 
