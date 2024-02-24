@@ -1,6 +1,6 @@
 # findDivisors
 
-The __findDivisors__ function accepts an integer __n > 1__
+The __findDivisors__ function accepts an integer __n > 1__  
 Returns an array with all divisors of this number, 
 except __1__ and the number itself, from least to greatest. 
 If the number is prime, the string '__n is prime__' is returned.
