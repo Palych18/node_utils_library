@@ -2,7 +2,7 @@
 
 Welcome to the repository with a set of mini-programs developed in __Node.js__!  
 This project is designed to demonstrate and practice the basic concepts, features,  
-and applications of __Node.js__ in small programming tasks.  
+and applications of Node.js in small programming tasks.  
 
 ![Banner](image/nodeJS.jpg)
 
