@@ -20,6 +20,7 @@ covered by tests.
 - [convertRomanToArabian](https://github.com/Palych18/programming_tasks/tree/main/functions/convertRomanToArabian)
 - [convertStrToArr](https://github.com/Palych18/programming_tasks/tree/main/functions/convertStrToArr)
 - [createPhoneNumber](https://github.com/Palych18/programming_tasks/tree/main/functions/createPhoneNumber)
+- [findDivisors](https://github.com/Palych18/programming_tasks/tree/main/functions/findDivisors)
 - [getCountOfVowels](https://github.com/Palych18/programming_tasks/tree/main/functions/getCountOfVowels)
 - [getDifference](https://github.com/Palych18/programming_tasks/tree/main/functions/getDifference)
 - [getMaxNumber](https://github.com/Palych18/programming_tasks/tree/main/functions/getMaxNumber)
