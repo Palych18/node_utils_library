@@ -20,11 +20,11 @@ describe('findDivisors:', () => {
     const { integer, expected } = dataForTest.test1;
     expect(findDivisors(integer)).toEqual(expected);
   });
-  it('Unit test1', () => {
+  it('Unit test2', () => {
     const { integer, expected } = dataForTest.test2;
     expect(findDivisors(integer)).toEqual(expected);
   });
-  it('Unit test1', () => {
+  it('Unit test3', () => {
     const { integer, expected } = dataForTest.test3;
     expect(findDivisors(integer)).toEqual(expected);
   });
