@@ -34,6 +34,7 @@ covered by tests.
 - [returnMostOftenNumber](https://github.com/Palych18/programming_tasks/tree/main/functions/returnMostOftenNumber)
 - [scrollToTarget](https://github.com/Palych18/programming_tasks/tree/main/functions/scrollToTarget)
 - [splitStrTwoSymbol](https://github.com/Palych18/programming_tasks/tree/main/functions/splitStrTwoSymbol)
+- [sumTwoSmallestIntegers](https://github.com/Palych18/programming_tasks/tree/main/functions/sumTwoSmallestIntegers)
 - [toCamelCase](https://github.com/Palych18/programming_tasks/tree/main/functions/toCamelCase)
 
 ## Usage
