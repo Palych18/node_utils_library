@@ -1,6 +1,6 @@
 # numbersFibonacci
 
-The function outputs a certain number of __Fibonacci__ numbers, starting from the very first one.
+The function outputs a certain number of __Fibonacci numbers__, starting from the very first one.
 
 ```
 numbersFibonacci(0) // Ноль вводить нельзя!
