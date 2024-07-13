@@ -23,6 +23,7 @@ covered by tests.
 - [findDivisors](https://github.com/Palych18/programming_tasks/tree/main/functions/findDivisors)
 - [getCountOfVowels](https://github.com/Palych18/programming_tasks/tree/main/functions/getCountOfVowels)
 - [getDifference](https://github.com/Palych18/programming_tasks/tree/main/functions/getDifference)
+- [getFactorial](https://github.com/Palych18/programming_tasks/tree/main/functions/getFactorial)
 - [getMaxNumber](https://github.com/Palych18/programming_tasks/tree/main/functions/getMaxNumber)
 - [getMinNumber](https://github.com/Palych18/programming_tasks/tree/main/functions/getMinNumber)
 - [getMultiply](https://github.com/Palych18/programming_tasks/tree/main/functions/getMultiply)
